@@ -1,7 +1,7 @@
 # Joe Spahn's First CS193 Homework
 
--Small classes
--One hour 
+- Small classes
+- One hour 
 
 ## Welcome to GitHub Pages
 
